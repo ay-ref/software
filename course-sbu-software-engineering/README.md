@@ -364,7 +364,7 @@
       - subtask
 
 - user story
-  - as a <role>, i <feature>, <why>
+  - as a role, i feature, why
 
 - good user story
   - independent
