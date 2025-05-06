@@ -1,5 +1,10 @@
 # Software
 
+- ***every project*** true steps
+  - document
+  - test
+  - implementation
+
 ## DDD (TDD)
 
 - **IF YOU DONT HAVE TEST, DONT WRITE CODE!**
