@@ -23,6 +23,12 @@
  
 - big project and codes cannot be tested by hand
   - code testing with code gives you very very high probability trust!
+ 
+## Task Management
+
+- exprimentally having a `TODO.md` file on the project RPEO
+  or a repo besides the REPO is worked.
+  - **DONT WORK WITH UGLY APP, WORK WITH NO UI APP (APP THAT CANT BE UGLY)**
 
 ## Architecture
 
