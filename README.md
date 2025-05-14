@@ -9,7 +9,7 @@
 
 - ***if you think that your system works or not, it is not. (you should sure your system works)***
 
-- **if you think that this is normal error or not, it is. (you should sure your error is specific one)**
+- **if you think that this is normal problem/error/issue or not, it is. (you should sure your error is specific one)**
 
 ## DDD (TDD)
 
