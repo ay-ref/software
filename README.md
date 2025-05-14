@@ -29,6 +29,8 @@
 - exprimentally having a `TODO.md` file on the project RPEO
   or a repo besides the REPO is worked.
   - **DONT WORK WITH UGLY APP, WORK WITH NO UI APP (APP THAT CANT BE UGLY)**
+ 
+> EVEN IF YOU USE FROM A APP TRY TO HAVE A `TODO.md` BESIDES YOUR PROJECT!
 
 ## Architecture
 
