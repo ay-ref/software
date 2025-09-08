@@ -26,6 +26,9 @@
 - production
   - final result to end user app environment
 
+> always try to have a `tools` or `utils` folder to store your related
+> automated works for global context!
+
 ## DDD (TDD)
 
 - **IF YOU DONT HAVE TEST, DONT WRITE CODE!**
