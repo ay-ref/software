@@ -1,5 +1,7 @@
 # Software
 
+```CODE SHOULD HAVE DOCUMENT, BUT NOT **IN CODE**```
+
 - **_every project_** true steps
   - document
   - test
