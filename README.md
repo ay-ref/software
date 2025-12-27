@@ -15,6 +15,10 @@
 
 - **if you think that this is normal problem/error/issue or not, it is. (you should sure your error is specific one)**
 
+- **Your code shouldn't be more complex than the problem it solves.**
+
+- **One of most important system development approach: Fail Fast System**
+
 ## Possible Environments
 
 ### First Environments Setup
