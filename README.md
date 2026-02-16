@@ -19,6 +19,9 @@
 
 - **One of most important system development approach: Fail Fast System**
 
+- **FOR EVEN MIDDLE SIZE PROJECT, WRITE ADR DOCUMENT OR DIE!**
+
+
 ## Possible Environments
 
 ### First Environments Setup
