@@ -2,6 +2,8 @@
 
 ```CODE SHOULD HAVE DOCUMENT, BUT NOT **IN CODE**```
 
+- Don't write human understandable code, Write **CLEAN CODE**!
+
 - **_every project_** true steps
   - document
   - test
