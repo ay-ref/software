@@ -8,6 +8,8 @@
   - document
   - test
   - implementation
+ 
+- in engineering software including understanding, improving, featuring, ... of a system usually it is enough to track just data, process itself come to you!
 
 ## General Notes
 
